@@ -1,7 +1,7 @@
 {
   "name": "My C# workflow template 🤪",
   "description": "This workflow template is for demo purposes only 😝",
-  "categories": ["C#'],
+  "categories": ["C#"],
   "filePatterns": ["**.sln"]
   
 }
